@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Miles Davis",
+    "country": "Estados Unidos",
+    "birth_year": 1926,
+    "main_instrument": "Trompeta",
+    "description": "Trompetista y compositor cuya obra atravesó varias etapas fundamentales del jazz moderno.",
+    "image": "/images/artists/miles-davis.webp"
+  },
+  {
+    "id": "2",
+    "name": "John Coltrane",
+    "country": "Estados Unidos",
+    "birth_year": 1926,
+    "main_instrument": "Saxofón tenor y soprano",
+    "description": "Saxofonista y compositor reconocido por su desarrollo armónico, técnico y espiritual dentro del jazz.",
+    "image": "/images/artists/john-coltrane.webp"
+  },
+  {
+    "id": "3",
+    "name": "Charles Mingus",
+    "country": "Estados Unidos",
+    "birth_year": 1922,
+    "main_instrument": "Contrabajo",
+    "description": "Contrabajista, compositor y director de banda con una obra marcada por el blues, el gospel y la experimentación.",
+    "image": "/images/artists/charles-mingus.webp"
+  },
+  {
+    "id": "4",
+    "name": "Thelonious Monk",
+    "country": "Estados Unidos",
+    "birth_year": 1917,
+    "main_instrument": "Piano",
+    "description": "Pianista y compositor asociado al bebop, conocido por su lenguaje armónico y rítmico distintivo.",
+    "image": "/images/artists/thelonious-monk.webp"
+  },
+  {
+    "id": "5",
+    "name": "Dave Brubeck",
+    "country": "Estados Unidos",
+    "birth_year": 1920,
+    "main_instrument": "Piano",
+    "description": "Pianista y compositor cuya obra popularizó el uso de métricas poco habituales en el jazz.",
+    "image": "/images/artists/dave-brubeck.webp"
+  },
+  {
+    "id": "6",
+    "name": "Herbie Hancock",
+    "country": "Estados Unidos",
+    "birth_year": 1940,
+    "main_instrument": "Piano y teclados",
+    "description": "Pianista y compositor que ha trabajado desde el post-bop hasta la fusión con funk y música electrónica.",
+    "image": "/images/artists/herbie-hancock.webp"
+  }
+]

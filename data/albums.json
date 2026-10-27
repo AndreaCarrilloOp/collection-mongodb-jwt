@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Kind of Blue",
+    "release_year": 1959,
+    "label": "Columbia Records",
+    "description": "Álbum emblemático de Miles Davis asociado al desarrollo y popularización del jazz modal.",
+    "image": "/images/albums/kind-of-blue.webp",
+    "artist_id": "1",
+    "subgenre_id": "1"
+  },
+  {
+    "id": "2",
+    "title": "Bitches Brew",
+    "release_year": 1970,
+    "label": "Columbia Records",
+    "description": "Trabajo de Miles Davis que incorporó instrumentación eléctrica y se convirtió en una referencia del jazz fusion.",
+    "image": "/images/albums/bitches-brew.webp",
+    "artist_id": "1",
+    "subgenre_id": "5"
+  },
+  {
+    "id": "3",
+    "title": "A Love Supreme",
+    "release_year": 1965,
+    "label": "Impulse! Records",
+    "description": "Suite de John Coltrane con una fuerte dimensión espiritual y un lenguaje ligado al jazz modal.",
+    "image": "/images/albums/a-love-supreme.webp",
+    "artist_id": "2",
+    "subgenre_id": "1"
+  },
+  {
+    "id": "4",
+    "title": "Blue Train",
+    "release_year": 1957,
+    "label": "Blue Note Records",
+    "description": "Grabación de John Coltrane reconocida como una obra destacada del hard bop de finales de los años cincuenta.",
+    "image": "/images/albums/blue-train.webp",
+    "artist_id": "2",
+    "subgenre_id": "2"
+  },
+  {
+    "id": "5",
+    "title": "Mingus Ah Um",
+    "release_year": 1959,
+    "label": "Columbia Records",
+    "description": "Álbum de Charles Mingus que integra blues, gospel, composición avanzada y recursos del hard bop.",
+    "image": "/images/albums/mingus-ah-um.webp",
+    "artist_id": "3",
+    "subgenre_id": "2"
+  },
+  {
+    "id": "6",
+    "title": "The Black Saint and the Sinner Lady",
+    "release_year": 1963,
+    "label": "Impulse! Records",
+    "description": "Obra extensa de Charles Mingus con escritura orquestal, cambios de textura y elementos asociados al post-bop.",
+    "image": "/images/albums/black-saint.webp",
+    "artist_id": "3",
+    "subgenre_id": "4"
+  },
+  {
+    "id": "7",
+    "title": "Brilliant Corners",
+    "release_year": 1957,
+    "label": "Riverside Records",
+    "description": "Álbum de Thelonious Monk con composiciones complejas que reflejan su lenguaje pianístico y compositivo.",
+    "image": "/images/albums/brilliant-corners.webp",
+    "artist_id": "4",
+    "subgenre_id": "6"
+  },
+  {
+    "id": "8",
+    "title": "Monk's Dream",
+    "release_year": 1963,
+    "label": "Columbia Records",
+    "description": "Grabación del cuarteto de Thelonious Monk que reúne composiciones propias y su enfoque rítmico-armónico característico.",
+    "image": "/images/albums/monks-dream.webp",
+    "artist_id": "4",
+    "subgenre_id": "6"
+  },
+  {
+    "id": "9",
+    "title": "Time Out",
+    "release_year": 1959,
+    "label": "Columbia Records",
+    "description": "Álbum del Dave Brubeck Quartet conocido por explorar métricas poco comunes dentro de un sonido asociado al cool jazz.",
+    "image": "/images/albums/time-out.webp",
+    "artist_id": "5",
+    "subgenre_id": "3"
+  },
+  {
+    "id": "10",
+    "title": "Jazz Impressions of Japan",
+    "release_year": 1964,
+    "label": "Columbia Records",
+    "description": "Trabajo del Dave Brubeck Quartet inspirado por una gira en Japón y presentado con un enfoque lírico y atmosférico.",
+    "image": "/images/albums/jazz-impressions-japan.webp",
+    "artist_id": "5",
+    "subgenre_id": "3"
+  },
+  {
+    "id": "11",
+    "title": "Head Hunters",
+    "release_year": 1973,
+    "label": "Columbia Records",
+    "description": "Álbum de Herbie Hancock que combina improvisación de jazz con funk, sintetizadores e instrumentación eléctrica.",
+    "image": "/images/albums/head-hunters.webp",
+    "artist_id": "6",
+    "subgenre_id": "5"
+  },
+  {
+    "id": "12",
+    "title": "Maiden Voyage",
+    "release_year": 1965,
+    "label": "Blue Note Records",
+    "description": "Álbum conceptual de Herbie Hancock con composiciones abiertas y un lenguaje armónico representativo del post-bop.",
+    "image": "/images/albums/maiden-voyage.webp",
+    "artist_id": "6",
+    "subgenre_id": "4"
+  }
+]

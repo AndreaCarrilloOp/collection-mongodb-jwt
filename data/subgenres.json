@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Modal Jazz",
+    "origin_decade": "Década de 1950",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Improvisación basada en modos y estructuras armónicas abiertas.",
+    "description": "Enfoque que reduce la dependencia de progresiones de acordes rápidas y da mayor espacio a la exploración melódica.",
+    "image": "/images/subgenres/modal-jazz.webp"
+  },
+  {
+    "id": "2",
+    "name": "Hard Bop",
+    "origin_decade": "Década de 1950",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Bebop con mayor presencia de blues, gospel, soul y ritmos marcados.",
+    "description": "Estilo desarrollado como una extensión del bebop con un sonido más directo y fuerte conexión con tradiciones afroamericanas.",
+    "image": "/images/subgenres/hard-bop.webp"
+  },
+  {
+    "id": "3",
+    "name": "Cool Jazz",
+    "origin_decade": "Finales de 1940 y década de 1950",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Sonoridad contenida, arreglos detallados y énfasis en el espacio y el equilibrio.",
+    "description": "Corriente que suele presentar tempos moderados, timbres suaves y arreglos con una estética más relajada.",
+    "image": "/images/subgenres/cool-jazz.webp"
+  },
+  {
+    "id": "4",
+    "name": "Post-Bop",
+    "origin_decade": "Década de 1960",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Combina hard bop, modal jazz y elementos de exploración armónica y rítmica.",
+    "description": "Categoría amplia para música que amplió el vocabulario del bop sin abandonar por completo sus estructuras.",
+    "image": "/images/subgenres/post-bop.webp"
+  },
+  {
+    "id": "5",
+    "name": "Jazz Fusion",
+    "origin_decade": "Finales de 1960 y década de 1970",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Uso de instrumentos eléctricos y mezcla con rock, funk y ritmos amplificados.",
+    "description": "Fusión del lenguaje improvisado del jazz con recursos tímbricos y rítmicos de géneros populares contemporáneos.",
+    "image": "/images/subgenres/jazz-fusion.webp"
+  },
+  {
+    "id": "6",
+    "name": "Bebop",
+    "origin_decade": "Década de 1940",
+    "origin_place": "Estados Unidos",
+    "characteristics": "Tempos rápidos, improvisación compleja y armonías con numerosas extensiones y sustituciones.",
+    "description": "Estilo central del jazz moderno que desplazó el énfasis desde el baile hacia la improvisación instrumental y la escucha.",
+    "image": "/images/subgenres/bebop.webp"
+  }
+]
