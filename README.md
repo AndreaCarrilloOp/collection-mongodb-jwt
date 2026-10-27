@@ -9,7 +9,7 @@
 
 Catálogo temático de música jazz desarrollado con **Vue.js**, un servicio **REST en Netlify Functions**, **MongoDB Atlas** y autenticación mediante **JSON Web Tokens (JWT)**. 
 
-**Aplicación en Netlify:** **Pendiente de agregar el enlace del despliegue**
+**Aplicación en Netlify:** [Jazz Collection](https://collection-jwt.netlify.app/login)
 
 ## Tecnologías
 
